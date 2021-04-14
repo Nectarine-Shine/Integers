@@ -1,0 +1,4 @@
+C:\Users\linak\Desktop\Integers-main\Integers\Core\obj\Debug\netcoreapp3.1\Core.csprojAssemblyReference.cache
+C:\Users\linak\Desktop\Integers-main\Integers\Core\obj\Debug\netcoreapp3.1\Core.csproj.CoreCompileInputs.cache
+C:\Users\linak\Desktop\Integers-main\Integers\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfoInputs.cache
+C:\Users\linak\Desktop\Integers-main\Integers\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfo.cs
